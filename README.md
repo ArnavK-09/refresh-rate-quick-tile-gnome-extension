@@ -28,10 +28,6 @@ git clone https://github.com/ArnavK-09/refresh-rate-quick-tile-gnome-extension.g
 gnome-extensions enable refresh-rate-quick-tile@dopamide
 ```
 
-## 📷 Screenshots
-
-> A screenshot of the tile in GNOME Quick Settings will be added here.
-
 ## 💻 Contributing
 
 > [!TIP]
@@ -66,15 +62,6 @@ Found a bug or need help? [Open an issue](https://github.com/ArnavK-09/refresh-r
     </tr>
   </tbody>
 </table>
-
-## 🛣️ Roadmap
-
-| Task | Status |
-| :--- | :---: |
-| GNOME Shell 51 quick tile | 🟢 |
-| Validate mode selection for mirrored displays | 🟡 |
-| Cancel pending display requests on system suspend | 🟡 |
-| Add a GNOME Quick Settings screenshot | 🔴 |
 
 ---
 
