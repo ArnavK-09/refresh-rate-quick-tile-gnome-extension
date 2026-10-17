@@ -73,4 +73,3 @@ Found a bug or need help? [Open an issue](https://github.com/ArnavK-09/refresh-r
 
 ---
 
-<p align="center"><strong>🌟 If you find this project helpful, please star it on GitHub! 🌟</strong></p>
