@@ -1,0 +1,7 @@
+{
+  "uuid": "refresh-rate-quick-tile@dopamide",
+  "name": "Refresh Rate Quick Tile",
+  "description": "Toggle displays between 60 Hz and their highest supported refresh rate.",
+  "url": "https://github.com/ArnavK-09/refresh-rate-quick-tile-gnome-extension",
+  "shell-version": ["51"]
+}
